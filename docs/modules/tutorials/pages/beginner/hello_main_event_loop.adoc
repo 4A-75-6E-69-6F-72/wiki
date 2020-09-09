@@ -81,7 +81,7 @@ A rotating object is just a simple example. In the update loop, you typically ha
 
 == Init - Update - Render
 
-Note the the three phases of every game:
+Note the three phases of every game:
 
 *  *Init:* The `simpleInitApp()` method is executed only _once_, right at the beginning;
 *  *Update:* The `simpleUpdate()` method runs _repeatedly_, during the game.
